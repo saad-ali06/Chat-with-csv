@@ -8,7 +8,7 @@ To ensure that the project runs in an isolated environment, create a virtual env
 ```bash
 # Create a virtual environment named 'venv'
 python -m venv venv
-
+```
 
 Activate the virtual environment:
 
