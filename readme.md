@@ -1,5 +1,3 @@
-Here’s the markdown code with instructions on how to set up the environment, install dependencies, and run the Flask app. I’ll also explain how to access the APIs and their functionality.
-
 ```markdown
 # Flask App Setup and API Access Guide
 
